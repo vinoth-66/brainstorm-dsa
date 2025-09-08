@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
