@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
 | ------- |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+## Greedy
+|  |
+| ------- |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
+## Sorting
+|  |
+| ------- |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
