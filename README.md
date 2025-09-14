@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0682-baseball-game) |
 ## String
 |  |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
