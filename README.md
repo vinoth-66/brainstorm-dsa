@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
+| [3723-sum-of-good-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3723-sum-of-good-numbers) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
 ## Two Pointers
