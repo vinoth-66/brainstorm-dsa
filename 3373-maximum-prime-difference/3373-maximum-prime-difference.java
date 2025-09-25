@@ -1,11 +1,10 @@
 class Solution {
     public int maximumPrimeDifference(int[] nums) {
-        int f=0,l=0,flag=0;
+        int f=-1,l=-1;
         for(int i=0;i<nums.length;i++){
             if(prime(nums[i])){
-                if(flag==0){
+                if(f==-1){
                     f=i;
-                    flag=1;
                 }
                 l=i;
             } 
