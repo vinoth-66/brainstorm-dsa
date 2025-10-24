@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
 ## Math
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1642-water-bottles) |
