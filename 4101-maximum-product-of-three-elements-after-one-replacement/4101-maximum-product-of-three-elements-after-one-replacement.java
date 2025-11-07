@@ -16,14 +16,14 @@ class Solution {
         for(int i=0;i<2;i++){
             ans*=(long)nums[n--];
         }
-        ans*=100000L;
+        ans*=100000;
         return ans;
     }
     private long neg(long ans,int[] nums){
         for(int i=0;i<2;i++){
             ans*=(long)nums[i];
         }
-        ans*=100000L;
+        ans*=100000;
         return ans;
     }
     private long both(long ans,int[] nums){
@@ -40,8 +40,8 @@ class Solution {
                 e--;
             }
         }
-        if(c%2==0) ans*=100000L;
-        else ans*=-100000L;
+        if(c%2==0) ans*=100000;
+        else ans*=-100000;
         return ans;
     }
 }
