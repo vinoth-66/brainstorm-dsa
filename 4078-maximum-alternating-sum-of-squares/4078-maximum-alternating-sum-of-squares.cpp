@@ -14,7 +14,7 @@ public:
             if(in%2==0) ans[in++]=pos[e--];
             else ans[in++]=pos[s++];
         }
-        long sum=0;
+        long long sum=0;
         for(int i=0;i<ans.size();i++){
             if(i%2==0) sum+=ans[i]*ans[i];
             else sum-=ans[i]*ans[i];
