@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1769-get-maximum-in-generated-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1769-get-maximum-in-generated-array) |
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
