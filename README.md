@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1769-get-maximum-in-generated-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1769-get-maximum-in-generated-array) |
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2324-find-triangular-sum-of-an-array) |
