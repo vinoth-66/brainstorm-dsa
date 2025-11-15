@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2649-count-total-number-of-colored-cells](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2649-count-total-number-of-colored-cells) |
 | [3336-water-bottles-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
