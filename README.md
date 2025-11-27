@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0682-baseball-game) |
 | [0830-largest-triangle-area](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0830-largest-triangle-area) |
+| [0941-valid-mountain-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0941-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
