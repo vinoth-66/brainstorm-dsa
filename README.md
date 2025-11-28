@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
