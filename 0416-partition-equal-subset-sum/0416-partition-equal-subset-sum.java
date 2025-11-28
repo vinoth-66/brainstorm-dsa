@@ -3,7 +3,7 @@ class Solution {
         int tar=0;
         for(int i:nums) tar+=i;
         if(tar%2!=0) return false;
-        Boolean[][] memo=new Boolean[nums.length][tar+1];
+        Boolean[][] memo=new Boolean[nums.length][tar/2+1];
         return subset(nums,0,tar/2,memo);
     }
     private boolean subset(int[] nums,int in,int tar,Boolean[][] memo){
