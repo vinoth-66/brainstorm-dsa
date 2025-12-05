@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3373-maximum-prime-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3373-maximum-prime-difference) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3541-report-spam-message](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3541-report-spam-message) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2649-count-total-number-of-colored-cells) |
 | [3336-water-bottles-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3373-maximum-prime-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
