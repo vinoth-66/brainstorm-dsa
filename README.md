@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0682-baseball-game) |
 | [0830-largest-triangle-area](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [0941-valid-mountain-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0941-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
 ## Math
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
+| [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
