@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0198-house-robber) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0830-largest-triangle-area) |
