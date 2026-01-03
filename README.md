@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1236-n-th-tribonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0654-maximum-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0933-increasing-order-search-tree) |
 | [1666-make-the-string-great](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1666-make-the-string-great) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
