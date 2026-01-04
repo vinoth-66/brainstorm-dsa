@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-sum-of-good-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3723-sum-of-good-numbers) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
 | [3541-report-spam-message](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3541-report-spam-message) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -419,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Enumeration
+|  |
+| ------- |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 <!---LeetCode Topics End-->
