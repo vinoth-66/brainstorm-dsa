@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
 ## Matrix
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-semi-ordered-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2785-semi-ordered-permutation) |
 | [3174-clear-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3174-clear-digits) |
 | [3336-water-bottles-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3336-water-bottles-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
 | [3541-report-spam-message](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3541-report-spam-message) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
