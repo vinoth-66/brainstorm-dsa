@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
 | [3723-sum-of-good-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3723-sum-of-good-numbers) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
 | [2578-split-with-minimum-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2578-split-with-minimum-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3531-count-covered-buildings) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
