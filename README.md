@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
+| [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -453,4 +455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
