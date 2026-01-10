@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0494-target-sum) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0434-number-of-segments-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0551-student-attendance-record-i) |
