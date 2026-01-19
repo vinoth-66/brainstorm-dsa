@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1390-four-divisors) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Enumeration
 |  |
