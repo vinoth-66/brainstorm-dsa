@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-semi-ordered-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2785-semi-ordered-permutation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3373-maximum-prime-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3373-maximum-prime-difference) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
