@@ -1,15 +1,14 @@
 class Solution {
     public int rob(int[] nums) {
-        int[] memo=new int[nums.length];
+        int[] memo=new int[nums.length+1];
         Arrays.fill(memo,-1);
-        return(subset(nums,memo,0));
+        return vin(nums,0,memo);
     }
-    private int subset(int[] nums,int[] memo,int in){
-        if(in>nums.length-1) return 0;
+    private int vin(int[] arr,int in,int[] memo){
+        if(in>=arr.length) return 0;
         if(memo[in]!=-1) return memo[in];
-        int pick=nums[in]+subset(nums,memo,in+2);
-        int leave=subset(nums,memo,in+1);
-
-        return memo[in]=Math.max(pick,leave);
+        int a=arr[in]+vin(arr,in+2,memo);
+        int b=vin(arr,in+1,memo);
+        return memo[in]=Math.max(a,b);
     }
 }
