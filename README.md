@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0053-maximum-subarray) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0409-longest-palindrome) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0473-matchsticks-to-square) |
