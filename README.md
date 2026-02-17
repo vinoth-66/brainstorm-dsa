@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0216-combination-sum-iii) |
 | [0473-matchsticks-to-square](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0494-target-sum) |
