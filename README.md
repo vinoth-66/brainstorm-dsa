@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0693-binary-number-with-alternating-bits) |
 | [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
