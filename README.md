@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0213-house-robber-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0279-perfect-squares) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0567-permutation-in-string) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0397-integer-replacement) |
 | [1236-n-th-tribonacci-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1236-n-th-tribonacci-number) |
 ## Tree
@@ -555,5 +560,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [3597-partition-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3597-partition-string) |
 <!---LeetCode Topics End-->
