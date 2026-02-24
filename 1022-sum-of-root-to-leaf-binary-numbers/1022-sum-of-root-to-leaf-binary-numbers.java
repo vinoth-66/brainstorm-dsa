@@ -15,21 +15,21 @@
  */
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
-        int[] ans=new int[1];
-        vin(root,"",ans);
-        return ans[0];
+        // int[] ans=new int[1];
+        return vin(root,"");
+        // return ans[0];
     }
-    private void vin(TreeNode root,String t,int[] ans){
+    private int vin(TreeNode root,String t){
         if(root==null){
-            return;
+            return 0;
         }
         t+=root.val;
         if(root.left==null && root.right==null){
             int v=Integer.parseInt(t,2);
-            ans[0]+=v;
-            return;
+            return v;
         }
-        vin(root.left,t,ans);
-        vin(root.right,t,ans);
+        int l=vin(root.left,t);
+        int r=vin(root.right,t);
+        return l+r;
     }
 }
