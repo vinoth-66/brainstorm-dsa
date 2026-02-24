@@ -9,11 +9,11 @@ class Solution {
         for(char c:s.toCharArray()){
             if(c=='1'){
                 if(zeroCount>0){
-                    r.append('0');
+                    r.append('1');
                     zeroCount--;
                 }
                 else{
-                    r.append('1');
+                    r.append('0');
                     oneCount--;
                 }
             }
@@ -28,11 +28,6 @@ class Solution {
                 }
             }
         }
-        StringBuilder ans=new StringBuilder();
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)==r.charAt(i)) ans.append('0');
-            else ans.append('1');
-        }
-        return ans.toString();
+        return r.toString();
     }
 }
