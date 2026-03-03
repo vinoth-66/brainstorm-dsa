@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1769-get-maximum-in-generated-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1660-thousand-separator) |
 | [1666-make-the-string-great](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1666-make-the-string-great) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0231-power-of-two) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
