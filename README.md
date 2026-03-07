@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
