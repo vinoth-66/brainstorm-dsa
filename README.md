@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0397-integer-replacement) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0476-number-complement) |
