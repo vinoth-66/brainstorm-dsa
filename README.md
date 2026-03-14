@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
