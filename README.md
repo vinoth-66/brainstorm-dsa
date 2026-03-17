@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1205-defanging-an-ip-address) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
