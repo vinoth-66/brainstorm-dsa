@@ -2,19 +2,16 @@ class Solution {
     public int cherryPickup(int[][] grid) {
         int r=grid.length;
         int c=grid[0].length;
-        int[][][] memo=new int[r][c][c];
-        for(int[][] i:memo){
-            for(int[] j:i) Arrays.fill(j,-1);
-        }
+        Integer[][][] memo=new Integer[r][c][c];
         return vin(r,c,0,0,c-1,grid,memo);
     }
-    private int vin(int r,int c,int i,int j1,int j2,int[][] mat,int[][][] memo){
+    private int vin(int r,int c,int i,int j1,int j2,int[][] mat,Integer[][][] memo){
         if(j1<0 || j1>c-1 || j2<0 || j2>c-1) return -(int)1e9;
         else if(i==r-1){
             if(j1==j2) return mat[i][j1];
             else return mat[i][j1]+mat[i][j2];
         }
-        if(memo[i][j1][j2]!=-1) return memo[i][j1][j2];
+        if(memo[i][j1][j2]!=null) return memo[i][j1][j2];
         int max=-1;
         for(int di=-1;di<=1;di++){
             for(int dj=-1;dj<=1;dj++){
