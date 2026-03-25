@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0769-max-chunks-to-make-sorted) |
+| [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
+| [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0806-number-of-lines-to-write-string) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0804-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
