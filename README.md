@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1049-last-stone-weight-ii) |
+| [1051-height-checker](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
