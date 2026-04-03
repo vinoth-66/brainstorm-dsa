@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
+| [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [2578-split-with-minimum-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2578-split-with-minimum-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3776-minimum-moves-to-balance-circular-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
 | [2129-capitalize-the-title](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2129-capitalize-the-title) |
+| [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2678-number-of-senior-citizens](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2678-number-of-senior-citizens) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
+| [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1046-last-stone-weight) |
+| [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
