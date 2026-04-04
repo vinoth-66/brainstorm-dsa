@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1769-get-maximum-in-generated-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2129-capitalize-the-title](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2129-capitalize-the-title) |
 | [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
