@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3632-button-with-longest-push-time](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3632-button-with-longest-push-time) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3776-minimum-moves-to-balance-circular-array) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
 | [3541-report-spam-message](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3541-report-spam-message) |
 | [3597-partition-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3597-partition-string) |
+| [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3597-partition-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3597-partition-string) |
+| [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
