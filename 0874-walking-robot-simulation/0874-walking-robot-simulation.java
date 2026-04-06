@@ -55,80 +55,37 @@ class Solution {
                 op=0;
                 ind=0;
             }
-            if(i==0 && set.contains(Arrays.asList(0,0))){
-                for(int v=0;v<commands[i];v++){
-                    if(op==0){
-                        if(ind==0){
-                            if(v!=0){
-                                if(set.contains(Arrays.asList(x-1,y))){
-                                    break;
-                                }
-                            }
-                            x-=1;
+            for(int v=0;v<commands[i];v++){
+                if(op==0){
+                    if(ind==0){
+                        if(set.contains(Arrays.asList(x-1,y))){
+                                break;
                         }
-                        else{
-                            if(v!=0){
-                                if(set.contains(Arrays.asList(x,y-1))){
-                                    break;
-                                }
-                            }
-                            y-=1;
-                        }
+                        x-=1;
                     }
                     else{
-                        if(ind==0){
-                            if(v!=0){
-                                if(set.contains(Arrays.asList(x+1,y))){
-                                    break;
-                                }
-                            }
-                            x+=1;
+                        if(set.contains(Arrays.asList(x,y-1))){
+                                break;
                         }
-                        else{
-                            if(v!=0){
-                                if(set.contains(Arrays.asList(x,y+1))){
-                                    break;
-                                }
-                            }
-                            y+=1;
-                        }
+                        y-=1;
                     }
-                    ans=Math.max((x*x)+(y*y),ans);
                 }
-            }
-            else{
-                for(int v=0;v<commands[i];v++){
-                    if(op==0){
-                        if(ind==0){
-                            if(set.contains(Arrays.asList(x-1,y))){
-                                    break;
-                            }
-                            x-=1;
+                else{
+                    if(ind==0){
+                        if(set.contains(Arrays.asList(x+1,y))){
+                                break;
                         }
-                        else{
-                            if(set.contains(Arrays.asList(x,y-1))){
-                                    break;
-                            }
-                            y-=1;
-                        }
+                        x+=1;
                     }
                     else{
-                        if(ind==0){
-                            if(set.contains(Arrays.asList(x+1,y))){
-                                    break;
-                            }
-                            x+=1;
+                        if(set.contains(Arrays.asList(x,y+1))){
+                                break;
                         }
-                        else{
-                            if(set.contains(Arrays.asList(x,y+1))){
-                                    break;
-                            }
-                            y+=1;
-                        }
+                        y+=1;
                     }
-                    ans=Math.max((x*x)+(y*y),ans);
                 }
-            }
+                ans=Math.max((x*x)+(y*y),ans);
+            }        
         }
         return ans;
     }
