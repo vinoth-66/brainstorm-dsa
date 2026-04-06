@@ -37,6 +37,7 @@ class Solution {
                 else if(track=='w' && commands[i]==-2){
                     track='s';
                 }
+                continue;
             }
             if(track=='n'){
                 op=1;
