@@ -1,6 +1,6 @@
 class Solution {
     public List<List<Integer>> findWinners(int[][] matches) {
-        TreeMap<Integer,Integer> map=new TreeMap<>();
+        HashMap<Integer,Integer> map=new HashMap<>();
         int r=matches.length;
         int v=0;
         for(int i=0;i<r;i++){
@@ -19,6 +19,7 @@ class Solution {
         for(Map.Entry<Integer,Integer> m:map.entrySet()){
             if(m.getValue()==1) in2.add(m.getKey());
         }
+        Collections.sort(in2);
         ans.add(in2);
         return ans;
     }
