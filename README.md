@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-cherry-pickup-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1463-cherry-pickup-ii) |
+| [1528-shuffle-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1528-shuffle-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1528-shuffle-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1660-thousand-separator) |
