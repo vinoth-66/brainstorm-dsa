@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1293-three-consecutive-odds) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1389-create-target-array-in-the-given-order) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0567-permutation-in-string) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
