@@ -9,6 +9,7 @@ class Solution {
                 if(colors[i]!=colors[j]){
                     if(ind==-1) ind=j;
                     ans=Math.max(ans,j-i);
+                    if(j==len) return ans;
                 }
                 j++;
             }
