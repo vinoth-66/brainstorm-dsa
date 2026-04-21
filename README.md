@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-semi-ordered-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2785-semi-ordered-permutation) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2906-construct-product-matrix) |
+| [2942-find-words-containing-character](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2825-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2887-sort-vowels-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2942-find-words-containing-character) |
 | [3163-string-compression-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3174-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
