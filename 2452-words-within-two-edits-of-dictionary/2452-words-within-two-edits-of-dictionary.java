@@ -21,12 +21,12 @@ class Solution {
         return res;
     }
     public static boolean isValid(String s1, String s2) {
-        if (s1.length() != s2.length()) return false;
-        int diff = 0;
-        for (int i = 0; i < s1.length(); i++) {
-            if (s1.charAt(i) != s2.charAt(i)) {
+        if (s1.length()!=s2.length()) return false;
+        int diff=0;
+        for (int i=0;i<s1.length();i++) {
+            if (s1.charAt(i)!=s2.charAt(i)) {
                 diff++;
-                if (diff > 2) return false;
+                if (diff>2) return false;
             }
         }
         return true;
