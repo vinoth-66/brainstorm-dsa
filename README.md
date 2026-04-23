@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0844-backspace-string-compare) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0769-max-chunks-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0804-unique-morse-code-words) |
