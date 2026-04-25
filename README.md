@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0322-coin-change) |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
