@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0165-compare-version-numbers) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
