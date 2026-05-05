@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0279-perfect-squares) |
 | [0670-maximum-swap](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0788-rotated-digits) |
 | [1049-last-stone-weight-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1236-n-th-tribonacci-number) |
