@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1769-get-maximum-in-generated-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1769-get-maximum-in-generated-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1660-thousand-separator) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1666-make-the-string-great](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
