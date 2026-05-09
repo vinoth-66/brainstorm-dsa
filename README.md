@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3790-smallest-all-ones-multiple](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3790-smallest-all-ones-multiple) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Divide and Conquer
 |  |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3790-smallest-all-ones-multiple](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3790-smallest-all-ones-multiple) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
