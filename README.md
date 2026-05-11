@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2678-number-of-senior-citizens) |
 | [2751-robot-collisions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2751-robot-collisions) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2751-robot-collisions) |
 | [2785-semi-ordered-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2785-semi-ordered-permutation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
