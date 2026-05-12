@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2751-robot-collisions) |
 | [2785-semi-ordered-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2785-semi-ordered-permutation) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2906-construct-product-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2678-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2825-minimize-string-length) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2887-sort-vowels-in-a-string) |
