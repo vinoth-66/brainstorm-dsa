@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0165-compare-version-numbers) |
+| [0290-word-pattern](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0409-longest-palindrome) |
