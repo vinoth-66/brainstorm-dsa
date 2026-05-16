@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0377-combination-sum-iv) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0079-word-search) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2559-count-vowel-strings-in-ranges) |
