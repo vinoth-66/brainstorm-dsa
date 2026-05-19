@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2678-number-of-senior-citizens](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2678-number-of-senior-citizens) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3973-flip-square-submatrix-vertically](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3973-flip-square-submatrix-vertically) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3488-closest-equal-element-queries) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2825-minimize-string-length](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2825-minimize-string-length) |
