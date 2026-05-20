@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2678-number-of-senior-citizens) |
 | [2751-robot-collisions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2784-check-if-array-is-good) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2784-check-if-array-is-good) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2825-minimize-string-length](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2825-minimize-string-length) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
