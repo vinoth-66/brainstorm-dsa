@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0769-max-chunks-to-make-sorted) |
+| [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0806-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0830-largest-triangle-area) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [1049-last-stone-weight-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1236-n-th-tribonacci-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
+| [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1018-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1200-minimum-absolute-difference) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0844-backspace-string-compare) |
@@ -529,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0804-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0874-walking-robot-simulation) |
@@ -813,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
+| [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3597-partition-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3597-partition-string) |
