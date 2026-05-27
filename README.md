@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2942-find-words-containing-character) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-string-compression-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3174-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2825-minimize-string-length) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
