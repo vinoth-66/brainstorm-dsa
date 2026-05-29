@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3373-maximum-prime-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3373-maximum-prime-difference) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2578-split-with-minimum-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2649-count-total-number-of-colored-cells) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
