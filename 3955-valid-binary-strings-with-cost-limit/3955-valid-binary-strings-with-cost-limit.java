@@ -5,9 +5,9 @@ class Solution {
         return ans;
     }
     public void vin(int n,int k,StringBuilder sb,int f,List<String> ans,int cost,int ind){
+        if(cost>k) return;
         if(sb.length()==n){
             if(cost<=k) ans.add(sb.toString());
-            // if(helper(sb,k)) ans.add(sb.toString());
             return;
         }
         if(f!=1){
@@ -19,11 +19,4 @@ class Solution {
         vin(n,k,sb,0,ans,cost,ind+1);
         sb.deleteCharAt(sb.length()-1);
     }
-    // public boolean helper(StringBuilder sb,int k){
-    //     int s=0;
-    //     for(int i=0;i<sb.length();i++){
-    //         if(sb.charAt(i)=='1') s+=i;
-    //     }
-    //     return s<=k;
-    // } 
 }
