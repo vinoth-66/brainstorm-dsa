@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0769-max-chunks-to-make-sorted) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
+| [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
 ## Number Theory
 |  |
@@ -893,4 +897,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
