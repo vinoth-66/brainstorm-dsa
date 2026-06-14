@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0933-increasing-order-search-tree) |
 | [1666-make-the-string-great](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1666-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2751-robot-collisions) |
 | [3174-clear-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3174-clear-digits) |
 ## String
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
 | [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
