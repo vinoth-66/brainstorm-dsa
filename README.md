@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
+| [2032-two-out-of-three](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2032-two-out-of-three) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2126-destroying-asteroids) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
+| [2032-two-out-of-three](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2032-two-out-of-three) |
 | [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2032-two-out-of-three](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2032-two-out-of-three) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
