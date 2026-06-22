@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1205-defanging-an-ip-address) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
