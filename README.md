@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2032-two-out-of-three) |
 | [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
