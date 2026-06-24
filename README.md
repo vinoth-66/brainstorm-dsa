@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0748-shortest-completing-word) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0804-unique-morse-code-words) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0784-letter-case-permutation) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0791-custom-sort-string) |
