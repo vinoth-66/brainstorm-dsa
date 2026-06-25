@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3689-maximum-total-subarray-value-i) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
 | [3723-sum-of-good-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3723-sum-of-good-numbers) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0654-maximum-binary-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -843,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3546-equal-sum-grid-partition-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -927,4 +933,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0705-design-hashset) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
