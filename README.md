@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2465-number-of-distinct-averages](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2465-number-of-distinct-averages) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2465-number-of-distinct-averages](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2465-number-of-distinct-averages](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2578-split-with-minimum-sum) |
 | [2751-robot-collisions](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2784-check-if-array-is-good) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2465-number-of-distinct-averages](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2465-number-of-distinct-averages) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2486-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2540-minimum-common-value) |
