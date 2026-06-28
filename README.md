@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1769-get-maximum-in-generated-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1861-rotating-the-box) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2126-destroying-asteroids) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2164-sort-even-and-odd-indices-independently) |
