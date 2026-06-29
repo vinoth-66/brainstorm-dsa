@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1914-cyclically-rotating-a-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
 | [2032-two-out-of-three](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2032-two-out-of-three) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2075-decode-the-slanted-ciphertext) |
