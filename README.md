@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1572-matrix-diagonal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1914-cyclically-rotating-a-grid) |
