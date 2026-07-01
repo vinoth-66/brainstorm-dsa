@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1914-cyclically-rotating-a-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-truncate-sentence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1944-truncate-sentence) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1980-find-unique-binary-string) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1975-maximum-matrix-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2126-destroying-asteroids) |
