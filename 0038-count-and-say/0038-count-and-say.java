@@ -10,11 +10,11 @@ class Solution {
         for(int i=0;i<s.length()-1;i++){
             if(s.charAt(i)==s.charAt(i+1)) c++;
             else{
-                sb.append(String.valueOf(c)+s.charAt(i));
+                sb.append(String.valueOf(c)).append(s.charAt(i));
                 c=1;
             }
         }
-        sb.append(String.valueOf(c)+s.charAt(s.length()-1));
+        sb.append(String.valueOf(c)).append(s.charAt(s.length()-1));
         return sb.toString();
     }
 }
