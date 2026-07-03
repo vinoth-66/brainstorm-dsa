@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0792-number-of-matching-subsequences) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
