@@ -39,32 +39,32 @@ class Solution {
                     }
                     else if(rem>=1000){
                         int d=rem/1000;
-                        rem=helper(d,1000,rem);
+                        rem%=1000;
                         vin(d,1000,sb,map);
                     }
                     else if(rem>=500){
                         int d=rem/500;
-                        rem=helper(d,500,rem);
+                        rem%=500;
                         vin(d,500,sb,map);
                     }
                     else if(rem>=100){
                         int d=rem/100;
-                        rem=helper(d,100,rem);
+                        rem%=100;
                         vin(d,100,sb,map);
                     }
                     else if(rem>=50){
                         int d=rem/50;
-                        rem=helper(d,50,rem);
+                        rem%=50;
                         vin(d,50,sb,map);
                     }
                     else if(rem>=10){
                         int d=rem/10;
-                        rem=helper(d,10,rem);
+                        rem%=10;
                         vin(d,10,sb,map);
                     }
                     else if(rem>=5){
                         int d=rem/5;
-                        rem=helper(d,5,rem);
+                        rem%=5;
                         vin(d,5,sb,map);
                     }
                 }
@@ -82,9 +82,5 @@ class Solution {
         for(int i=0;i<el;i++){
             sb.append(map.get(num));
         }
-    }
-    public int helper(int c,int num,int rem){
-        for(int i=0;i<c;i++) rem-=num;
-        return rem;
     }
 }
