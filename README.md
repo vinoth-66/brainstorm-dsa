@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-smallest-all-ones-multiple](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3790-smallest-all-ones-multiple) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/vinoth-66/brainstorm-dsa/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3707-find-the-most-common-response](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3707-find-the-most-common-response) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3797-design-spreadsheet) |
@@ -880,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3546-equal-sum-grid-partition-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
 | ------- |
