@@ -1,23 +1,19 @@
 class Solution {
     public int rob(int[] nums) {
         if(nums.length==1) return nums[0];
-        int[] arr1=Arrays.copyOfRange(nums,0,nums.length-1);
-        int[] arr2=Arrays.copyOfRange(nums,1,nums.length);
-        int[] memo=new int[nums.length+1];
+        int[] memo=new int[nums.length];
         Arrays.fill(memo,-1);
-        int[] memo2=new int[nums.length+1];
-        Arrays.fill(memo2,-1);
-        return Math.max(vin(arr1,0,memo),vin(arr2,0,memo2));
+        int v1=vin(0,nums,nums.length-1,memo);
+        Arrays.fill(memo,-1);
+        int v2=vin(1,nums,nums.length,memo);
+        return Math.max(v1,v2);
     }
-    private int vin(int[] arr,int in,int[] memo){
-        if(in>arr.length-1) return 0;
-
+    public int vin(int in,int[] nums,int len,int[] memo){
+        if(in==len-1) return nums[in];
+        else if(in>=len) return 0;
         if(memo[in]!=-1) return memo[in];
-
-        int a=arr[in]+vin(arr,in+2,memo);
-        int b=vin(arr,in+1,memo);
-
-        return memo[in]=Math.max(a,b);
- 
+        int p=nums[in]+vin(in+2,nums,len,memo);
+        int l=vin(in+1,nums,len,memo);
+        return memo[in]=Math.max(p,l);
     }
 }
