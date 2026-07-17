@@ -1,14 +1,17 @@
 class Solution {
     public int rob(int[] nums) {
-        int[] memo=new int[nums.length+1];
+        int[] memo=new int[nums.length];
         Arrays.fill(memo,-1);
-        return vin(nums,0,memo);
+        return vin(0,nums,memo);
     }
-    private int vin(int[] arr,int in,int[] memo){
-        if(in>=arr.length) return 0;
+    public int vin(int in,int[] nums,int[] memo){
+        if(in==nums.length-1){
+            return nums[in];
+        }
+        else if(in>=nums.length) return 0;
         if(memo[in]!=-1) return memo[in];
-        int a=arr[in]+vin(arr,in+2,memo);
-        int b=vin(arr,in+1,memo);
-        return memo[in]=Math.max(a,b);
+        int p=nums[in]+vin(in+2,nums,memo);
+        int l=vin(in+1,nums,memo);
+        return memo[in]=Math.max(p,l);
     }
 }
