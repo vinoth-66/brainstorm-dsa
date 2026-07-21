@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
+| [0617-merge-two-binary-trees](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0662-maximum-width-of-binary-tree) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0994-rotting-oranges) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0513-find-bottom-left-tree-value) |
+| [0617-merge-two-binary-trees](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0662-maximum-width-of-binary-tree) |
