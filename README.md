@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3769-sort-integers-by-binary-reflection) |
