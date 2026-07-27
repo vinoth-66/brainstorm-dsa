@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-cherry-pickup-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1463-cherry-pickup-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1528-shuffle-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1833-maximum-ice-cream-bars) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2182-construct-string-with-repeat-limit) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
