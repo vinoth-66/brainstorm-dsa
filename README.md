@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3174-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-report-spam-message](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3541-report-spam-message) |
 | [3597-partition-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3597-partition-string) |
 | [3606-coupon-code-validator](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3606-coupon-code-validator) |
@@ -871,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1217-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vinoth-66/brainstorm-dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
