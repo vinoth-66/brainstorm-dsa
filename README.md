@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3174-clear-digits) |
 | [3336-water-bottles-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3597-partition-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3612-process-string-with-special-operations-i) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3174-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3462-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-report-spam-message](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3541-report-spam-message) |
 | [3597-partition-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3597-partition-string) |
