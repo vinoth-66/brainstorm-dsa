@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0322-coin-change) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0567-permutation-in-string) |
