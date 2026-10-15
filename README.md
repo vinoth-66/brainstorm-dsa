@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/2578-split-with-minimum-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vinoth-66/brainstorm-dsa/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/4078-maximum-alternating-sum-of-squares) |
