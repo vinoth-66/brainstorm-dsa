@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0473-matchsticks-to-square](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0485-max-consecutive-ones) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vinoth-66/brainstorm-dsa/tree/master/0645-set-mismatch) |
